@@ -57,13 +57,3 @@
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clemens00505&layout=compact&theme=algolia&bg_color=0d1117&hide_border=true" alt="Top Languages" />
   </a>
 </div>
-
-<br/>
-
-### 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **portfolio** | Angular based portfolio about myself. | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=flat-square&logo=typescript&logoColor=white) |
-| **PmSe_17** | A collaborative project exploring software engineering. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| **Bootstrap-Clemens** | Responsive web design implementation. | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
