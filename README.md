@@ -26,8 +26,8 @@ Database: T-SQL
 Here are some stats about my activity and top languages:
 
 <p align="left">
-<img alt="Clemens's GitHub Stats" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DClemens00505%26show_icons%3Dtrue%26count_private%3Dtrue%26hide%3Dcontribs%26theme%3Ddark" />
-<img alt="Clemens's Top Languages" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DClemens00505%26layout%3Dcompact%26theme%3Ddark" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api%3Fusername%3DClemens00505%26show_icons%3Dtrue%26count_private%3Dtrue%26hide%3Dcontribs%26theme%3Ddark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DClemens00505%26layout%3Dcompact%26theme%3Ddark)
 </p>
 
 🏆 GitHub Trophies
