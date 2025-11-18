@@ -70,13 +70,6 @@ const developer = {
 
 <br/>
 
-### 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Clemens00505&theme=algolia&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
-</div>
-
----
 
 ### 📂 Featured Projects
 
