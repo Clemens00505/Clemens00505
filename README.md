@@ -68,17 +68,12 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Clemens00505&show_icons=true&count_private=true&hide=contribs&theme=algolia&bg_color=0d1117" alt="Clemens's GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Clemens00505&show_icons=true&count_private=true&hide=contribs&theme=algolia&bg_color=0d1117" alt="Clemens's GitHub Stats" />
   </a>
-  
-  <br/><br/>
-
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clemens00505&layout=compact&theme=algolia&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clemens00505&layout=compact&theme=algolia&bg_color=0d1117&hide_border=true" alt="Top Languages" />
   </a>
-
 </div>
 
 <br/>
