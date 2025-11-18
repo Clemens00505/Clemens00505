@@ -9,26 +9,8 @@
   
   ### Hi there, I'm Clemens 👋
 
-  <br />
 
-  <div align="left">
-    <pre>
-    {
-       "role": "Student & Developer",
-       "location": "Breda, Netherlands 🇳🇱",
-       "focus": [
-         "Web Technologies",
-         "AI"
-       ],
-       "currentStatus": "Showcasing school projects & learning",
-       "message": "Welcome to my profile!"
-    }
-    </pre>
-  </div>
-
-</div>
-
-### 🛠️ Tech Stack
+### 🛠️ Tech
 
 **Languages**
 <br>
