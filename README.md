@@ -17,8 +17,8 @@
        "role": "Student & Developer",
        "location": "Breda, Netherlands 🇳🇱",
        "focus": [
-         "Java Development", 
-         "Web Technologies"
+         "Web Technologies",
+         "AI"
        ],
        "currentStatus": "Showcasing school projects & learning",
        "message": "Welcome to my profile!"
