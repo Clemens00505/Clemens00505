@@ -13,29 +13,20 @@
 
   <div align="left">
     <pre>
-public class Clemens extends Student {
-    
-    String role = "Student & Developer";
-    String location = "Breda, Netherlands 🇳🇱";
-    String[] focus = {"Java Development", "Web Technologies"};
-    String currentStatus = "Showcasing school projects & learning";
-
-    public void sayHello() {
-        System.out.println("Welcome to my profile!");
+    {
+       "role": "Student & Developer",
+       "location": "Breda, Netherlands 🇳🇱",
+       "focus": [
+         "Java Development", 
+         "Web Technologies"
+       ],
+       "currentStatus": "Showcasing school projects & learning",
+       "message": "Welcome to my profile!"
     }
-}
     </pre>
   </div>
 
 </div>
-
-### 🚀 Currently
-
-* 🔭 I’m currently working on **School Projects**
-* 🌱 I’m currently learning **Java & Advanced Web Dev**
-* 👯 I’m looking to collaborate on **Open Source Java Projects**
-
----
 
 ### 🛠️ Tech Stack
 
