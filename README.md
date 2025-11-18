@@ -82,6 +82,6 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **portfolio** | Java-based portfolio about myself. | ![Java](https://img.shields.io/badge/typescript-%23007ACC?style=flat-square&logo=openjdk&logoColor=white) |
+| **portfolio** | Java-based portfolio about myself. | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=flat-square&logo=openjdk&logoColor=white) |
 | **PmSe_17** | A collaborative project exploring software engineering. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 | **Bootstrap-Clemens** | Responsive web design implementation. | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
