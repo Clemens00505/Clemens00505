@@ -9,7 +9,7 @@
 <!-- Social Links -->
 
 <p>
-<a href="https://www.linkedin.com/in/clemens-stouten-724650228">
+<a href="https://www.linkedin.com/in/clemens-stouten-724a50328/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://clemens05.nl">
