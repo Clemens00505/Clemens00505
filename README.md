@@ -3,7 +3,7 @@
 <!-- Dynamic Typing Effect -->
 
 <a href="https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D30%26pause%3D1000%26color%3D36BCF7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHi%2Bthere%252C%2BI%27m%2BClemens%2B%25F0%259F%2591%258B%3BFull%2BStack%2BDeveloper%3BJava%2B%2526%2BPython%2BEnthusiast%3BAlways%2BLearning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Clemens;Full+Stack+Developer;Java;Python;Always+Learning" alt="Typing SVG" />
 </a>
 
 <!-- Social Links -->
@@ -29,10 +29,6 @@
 🔭 I’m currently working on Full Stack Web Applications
 
 🌱 I’m currently deepening my knowledge in Cloud Architecture & DevOps
-
-🤝 I’m open to collaborating on Java & Open Source projects
-
-⚡ Fun fact: I turn coffee into code
 
 <br />
 
@@ -94,35 +90,34 @@ DevOps & Tools
 <td valign="top" width="40%">
 
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 <!-- Main Stats Card -->
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DClemens00505%26show_icons%3Dtrue%26count_private%3Dtrue%26hide%3Dcontribs%26theme%3Dtokyonight%26bg_color%3D00000000%26hide_border%3Dtrue" alt="Clemens's GitHub Stats" />
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Clemens00505&show_icons=true&count_private=true&hide=contribs&theme=tokyonight&bg_color=00000000&hide_border=true" 
+  alt="Clemens's GitHub Stats"
+/>
 
 <!-- Top Languages Card -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clemens00505&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" 
+  alt="Top Languages"
+/>
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DClemens00505%26layout%3Dcompact%26theme%3Dtokyonight%26bg_color%3D00000000%26hide_border%3Dtrue" alt="Top Languages" />
-
-<!-- Streak Stats (Optional but recommended) -->
-
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DClemens00505%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D00000000" alt="GitHub Streak" />
+<!-- Streak Stats -->
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Clemens00505&theme=tokyonight&hide_border=true&background=00000000" 
+  alt="GitHub Streak"
+/>
 
 </div>
+
 </td>
 </tr>
 </table>
 
-<!-- Contribution Snake Animation -->
-
-<!-- This requires a GitHub Action to update automatically. If you don't set up the action, remove this section. -->
-
 <div align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Clemens00505/Clemens00505/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-<div align="center">
-<p><i>Let's connect and build something amazing!</i></p>
+<p><i>Let's build something amazing!</i></p>
 </div>
