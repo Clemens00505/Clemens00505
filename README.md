@@ -26,9 +26,13 @@
 
 👨‍💻 About Me
 
-🔭 I’m currently working on Full Stack Web Applications
+🔭 I’m currently working on Full Stack Web Apps
 
-🌱 I’m currently deepening my knowledge in Cloud Architecture & DevOps
+🎮 I’m developing a Game as a hobby project
+
+🌱 I’m currently exploring Cybersecurity
+
+🏠 I’m managing my personal HomeLab
 
 <br />
 
@@ -38,10 +42,6 @@
 
 Languages
 
-
-
-
-
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -50,10 +50,6 @@ Languages
 <!-- Frontend -->
 
 Frontend & Mobile
-
-
-
-
 
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
@@ -65,10 +61,6 @@ Frontend & Mobile
 
 Backend & Data
 
-
-
-
-
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -77,10 +69,6 @@ Backend & Data
 <!-- Tools -->
 
 DevOps & Tools
-
-
-
-
 
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
