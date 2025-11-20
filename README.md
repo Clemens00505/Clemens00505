@@ -30,6 +30,10 @@
 
 🌱 I’m currently deepening my knowledge in Cloud Architecture & DevOps
 
+🤝 I’m open to collaborating on Java & Open Source projects
+
+⚡ Fun fact: I turn coffee into code
+
 <br />
 
 🛠️ The Stack
@@ -116,7 +120,7 @@ DevOps & Tools
 <!-- This requires a GitHub Action to update automatically. If you don't set up the action, remove this section. -->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github.com/Clemens00505/Clemens00505/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Clemens00505/Clemens00505/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <div align="center">
