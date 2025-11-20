@@ -26,13 +26,13 @@
 
 👨‍💻 About Me
 
-  🔭 I’m currently working on Full Stack Web Apps
+- 🔭 I’m currently working on Full Stack Web Apps
   
-  🎮 I’m developing a Game as a hobby project
+- 🎮 I’m developing a Game as a hobby project
   
-  🌱 I’m currently exploring Cybersecurity
+- 🌱 I’m currently exploring Cybersecurity
   
-  🏠 I’m managing my personal HomeLab
+- 🏠 I’m managing my personal HomeLab
 
 <br />
 
